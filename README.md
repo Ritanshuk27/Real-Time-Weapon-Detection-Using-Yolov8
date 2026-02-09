@@ -11,10 +11,9 @@ It can detect weapons (such as guns and knives) from live webcam feed or video f
 
 ## 👨‍💻 Authors
 
-- **Satyajeet Kumar**  
 - **Ritanshu Kumar Singh**
+- **Satyajeet kumar**
 
----
 
 ## 📌 Features
 
